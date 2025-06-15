@@ -1,6 +1,6 @@
 flask
 click
-llama-cpp-python
+#llama-cpp-python
 textblob
 beautifulsoup4
 requests
